@@ -1,0 +1,46 @@
+.navbar-dark .navbar-brand {
+    color: white;
+}
+
+.hero {
+    background: url('https://4kwallpapers.com/images/wallpapers/dark-background-abstract-background-network-3d-background-2560x1440-8324.png') no-repeat center center/cover;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.hero h1 {
+    margin-bottom: 20px;
+}
+
+.hero p {
+    margin-bottom: 40px;
+}
+
+.top-courses {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.course-card {
+    text-align: center;
+}
+
+.course-card img {
+    max-width: 100%;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+    .hero {
+        padding: 50px 0;
+    }
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #1b1b1c;
+    color: #ecf0f1;
+    margin-top: 20px;
+}
